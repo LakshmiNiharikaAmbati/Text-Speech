@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg,#254336,#6B8A7A,#B7B597);
+}
+
+.ts{
+    /* background-color:#DAD3BE; */
+    width:50%;
+    margin: 180px auto 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.ts input{
+    width:60%;
+    height:10vh;
+    font-size: larger;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px 10px 10px 20px;
+    flex:1;
+    border-radius: 20px;
+    background-color: #c5c3a7;
+
+}
+
+.ts button{
+    margin: 40px 30px 10px 40px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #254336;
+    font-size: larger;
+    color: white;
+    cursor: pointer;  
+}
+
